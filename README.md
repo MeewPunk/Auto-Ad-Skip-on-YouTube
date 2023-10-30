@@ -1,7 +1,7 @@
 Chrome Extension Auto Ad Skip on YouTube
 1.  chrome://extensions/
 2. Developer mode on
-3. Load unpackef
+3. Load unpacked
 4. upload folder "Auto Ad Skip on YouTube"
 5. run extensions 
 
